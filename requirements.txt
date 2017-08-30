@@ -1,3 +1,2 @@
 pyserial
 bitstring
-pymysql
